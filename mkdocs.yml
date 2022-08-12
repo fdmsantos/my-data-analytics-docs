@@ -1,0 +1,8 @@
+site_name: My Data Analytics Docs
+#site_url: https://example.com/
+site_description: My documentation related with Data Engineering/Data Analytics
+site_author: Fábio Santos
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Hive: hive.md
